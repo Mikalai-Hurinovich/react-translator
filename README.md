@@ -1,2 +1,1 @@
-# react-translator
-Created with CodeSandbox
+<a href="https://wbymh.csb.app/">React Translator</a>
